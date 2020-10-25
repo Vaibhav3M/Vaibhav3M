@@ -1,20 +1,9 @@
 <!--
 **Vaibhav3M/Vaibhav3M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!--![Profile views](https://komarev.com/ghpvc/?username=vaibhav3m)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/Vaibhav3m)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/ShantanilBagchi)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/ShantanilBagchi)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/ShantanilBagchi/ShantanilBagchi)](https://badges.pufler.dev)
-[![Created Badge](https://badges.pufler.dev/created/ShantanilBagchi/ShantanilBagchi)](https://badges.pufler.dev)-->
-
-
-
-
-# <h1 align="center"> Welcome 👋</h1> 
 
 <h1 align="center">
-<img src="https://github.com/Vaibhav3M/Vaibhav3M/blob/main/Linkedin%20Banner.png">
+<img src="https://github.com/Vaibhav3M/Vaibhav3M/blob/main/MainBanner.gif">
 </h1>
 
 
