@@ -1,10 +1,8 @@
 <!--
-**Vaibhav3M/Vaibhav3M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Vaibhav3M/Vaibhav3M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-<h1 align="center">
 <img src="https://github.com/Vaibhav3M/Vaibhav3M/blob/main/MainBanner.gif">
-</h1>
 
 
 ## <h1 align="left"> About Me </h1> 
