@@ -14,7 +14,7 @@
 # <h1 align="center"> Welcome 👋</h1> 
 
 <h1 align="center">
-<img src="https://github.com/ShantanilBagchi/ShantanilBagchi/blob/master/Linkedin%20Banner.png">
+<img src="https://github.com/Vaibhav3M/Vaibhav3M/blob/master/Linkedin%20Banner.png">
 </h1>
   
 
