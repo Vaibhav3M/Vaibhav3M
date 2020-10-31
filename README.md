@@ -9,7 +9,7 @@
 
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" align = "right">
 
-Hey! I'm Vaibhav! 👋🏻 I'm an aspiring data scientist dedicated to finding insights in data as well as educating others in data analytics! Let's connect!
+Hey! I'm Vaibhav! 👋🏻 I'm a software developer and data scientist. I'm dedicated to  finding insights in data as well as educating others in data analytics! Let's connect!
 
 📊 I was first introduced to the world of Data Analytics while working as a software developer in IT sector for a Fortune 500 company. Although, at that time, the term Data science wasn’t this famous. Nonetheless, I understood that any industry generated a lot of data and not tapping into them is a waste of valuable insights. I was working as an iOS developer but used automation and app data to generate insights.
 
@@ -20,7 +20,10 @@ Hey! I'm Vaibhav! 👋🏻 I'm an aspiring data scientist dedicated to finding i
 🙂 A little about my personality: I am the type of person who will ask “What can I do to help and improve?” when presented with a problem and will pitch in whenever needed to find out of box solutions to existing processes. I am energized by collaborating with other people to find solutions and implementing them to see improvement. I strongly believe in giving back to society and uplift everyone around me.
 
 
-💬 Message me to talk about: how to get started in data science, what's it like pursuing master’s at Concordia or in Canada, what resources I am using to learn data science, and how to stay motivated when you are self-learning even if you aren’t from a computer science background.
+💬 Message me to talk about: how to get started in data science and/or software development, what's it like pursuing master’s at Concordia or in Canada, what resources I am using for my learning, and how to stay motivated when you are self-learning even if you aren’t from a computer science background. You can checkout my medium articles <a href="https://malhotravaibhav.medium.com/" target="_blank"> here </a>.
+
+🤝 You can reach me at <a href="https://www.malhotravaibhav.com/#contact-section" target="_blank"> here </a> <br>
+
 
 
 ## &#x1f4c8; GitHub Stats
