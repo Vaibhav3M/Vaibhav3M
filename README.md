@@ -2,9 +2,6 @@
 **Vaibhav3M/Vaibhav3M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-<img src="https://github.com/Vaibhav3M/Vaibhav3M/blob/main/MainBanner.gif">
-
-
 ## <h1 align="left"> About Me </h1> 
 
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" align = "right">
@@ -22,7 +19,7 @@ Hey! I'm Vaibhav! 👋🏻 I'm a software developer and data scientist. I'm dedi
 
 💬 Message me to talk about: how to get started in data science and/or software development, what's it like pursuing master’s at Concordia or in Canada, what resources I am using for my learning, and how to stay motivated when you are self-learning even if you aren’t from a computer science background. You can checkout my medium articles <a href="https://malhotravaibhav.medium.com/" target="_blank"> here </a>.
 
-🤝 You can reach me at <a href="https://www.malhotravaibhav.com/#contact-section" target="_blank"> here </a> <br>
+🤝 You can reach me at <a href="https://www.vaibhavmalhotra.com/#contact-section" target="_blank"> here </a> <br>
 
 
 
